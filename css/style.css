@@ -19,7 +19,7 @@
 }
 body {
  background-color: var(--Blue-950);
- background-image: url("/images/bg-desktop.png");
+ background-image: url("./images/bg-desktop.png");
  background-position: bottom;
  background-repeat: no-repeat;
  background-size: 100%;
@@ -169,4 +169,5 @@ main .side{
     font-size: var(--Fontsize);
     margin-top: 10px;
     margin-left: 6px;
+
 }
